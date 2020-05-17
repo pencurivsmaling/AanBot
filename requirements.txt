@@ -27,7 +27,6 @@ dropbox==9.1.0
 email-reply-parser==0.5.9
 et-xmlfile==1.0.1
 Faker==2.0.4
-frappe==12.5.1
 future==0.18.2
 gitdb2==2.0.6
 GitPython==2.1.15
