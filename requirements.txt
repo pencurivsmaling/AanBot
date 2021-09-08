@@ -60,7 +60,7 @@ passlib==1.7.1
 pathtools==0.1.2
 pdfkit==0.6.1
 pickleshare==0.7.5
-Pillow==6.2.2
+Pillow==8.3.2
 premailer==3.6.1
 prompt-toolkit==1.0.18
 psycopg2-binary==2.8.4
