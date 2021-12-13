@@ -46,7 +46,7 @@ jdcal==1.4.1
 Jinja2==2.10.3
 jmespath==0.9.5
 ldap3==2.7
-lxml==4.5.0
+lxml==4.6.5
 markdown2==2.3.7
 MarkupSafe==1.1.1
 maxminddb==1.5.4
